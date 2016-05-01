@@ -1,0 +1,5 @@
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week15A\Exercise3Boot\bin\Debug\Exercise3Boot.exe.config
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week15A\Exercise3Boot\bin\Debug\Exercise3Boot.exe
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week15A\Exercise3Boot\bin\Debug\Exercise3Boot.pdb
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week15A\Exercise3Boot\obj\Debug\Exercise3Boot.exe
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week15A\Exercise3Boot\obj\Debug\Exercise3Boot.pdb

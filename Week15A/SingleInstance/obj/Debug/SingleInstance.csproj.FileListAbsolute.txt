@@ -1,0 +1,6 @@
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week15A\SingleInstance\bin\Debug\SingleInstance.exe.config
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week15A\SingleInstance\bin\Debug\SingleInstance.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week15A\SingleInstance\bin\Debug\SingleInstance.pdb
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week15A\SingleInstance\obj\Debug\SingleInstance.csprojResolveAssemblyReference.cache
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week15A\SingleInstance\obj\Debug\SingleInstance.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week15A\SingleInstance\obj\Debug\SingleInstance.pdb
